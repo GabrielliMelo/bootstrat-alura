@@ -6,3 +6,12 @@
 h1 {
   font-family: "Pacifico", cursive;
 }
+
+.h1-text {
+  font-family: "Pacifico", cursive;
+  color: brown;
+}
+
+.p-text {
+  color: rgb(124, 120, 120);
+}
